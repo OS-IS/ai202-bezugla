@@ -11,7 +11,7 @@
 
 6. Внесіть один рядок в таблицю, використовуючи команду insert into ..., відповідно до варіанту.
 
-![1](https://github.com/user-attachments/assets/e81afda7-73e7-45e7-a9ea-7274885cb8aa)
+![image](https://github.com/user-attachments/assets/73ae7ffa-79f5-40a2-a81f-581b410dfef3)
 
 #### 7-8
 7. Додатково створіть ще одну термінальну консоль psql та та встановіть з’єднання з БД postgres від імені нового користувача.
@@ -28,7 +28,8 @@
 #### 10
 Повторіть крок 8.
 
-![image](https://github.com/user-attachments/assets/a51f441c-4e6a-4fe1-b8d0-85f2be7e0ec4)
+![image](https://github.com/user-attachments/assets/34b1fae6-4124-4d38-a27b-464a76617e10)
+
 
 #### 11
 Зніміть повноваження на читання таблиці для нового користувача.
@@ -83,7 +84,7 @@
 #### 21
 Встановіть повноваження на внесення даних до таблиці для ролі.
 
-![image](https://github.com/user-attachments/assets/ab827d23-8a24-43a2-a57d-f58786542b32)
+![image](https://github.com/user-attachments/assets/f86370ab-70ec-4242-b1e3-17ba70417b7f)
 
 #### 22
 Повторіть крок 20.
