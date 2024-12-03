@@ -61,7 +61,7 @@ port=var2 dbname=var3 user=var4 password=var5 sslmode=var6". Визначити 
 
 14. Повторити пункт 11, встановивши зв’язок із СКБД, але вже через TLS/SSL-з’єднання.
 
-![image](https://github.com/user-attachments/assets/c4af183d-2e9e-43a4-a770-5c0f0609d711)
+![image](https://github.com/user-attachments/assets/3e2d9b0b-ebb5-4434-b12f-053565cdc1f0)
 
 15. Проаналізувати вміст перехоплених пакетів в програмі-аналізаторі. Підтвердити відсутність даних у відкритому вигляді.
 
